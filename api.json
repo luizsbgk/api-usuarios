@@ -1,0 +1,9 @@
+{
+  "nome": "João da Silva",
+  "email": "joao.silva@email.com",
+  "senha": "SenhaForte@123",
+  "telefone": "11998877665",
+  "endereco": "Rua Exemplo, 123",
+  "estado": "SP",
+  "data_nascimento": "1990-01-01"
+}
